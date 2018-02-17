@@ -1,4 +1,5 @@
 # exelot
+simple parser for http://my.exelot.com/public/track
 ## install
 ```
 npm install
