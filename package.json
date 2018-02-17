@@ -1,0 +1,22 @@
+{
+  "name": "exelot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "date-and-time": "^0.6.2",
+    "dom-regex": "0.0.3",
+    "fs-extra": "^5.0.0",
+    "html-json": "^1.0.2",
+    "html2json": "^1.0.2",
+    "match-all": "^1.2.4",
+    "pretty": "^2.0.0",
+    "pushbullet": "^2.1.0",
+    "regex": "^0.1.1"
+  }
+}
