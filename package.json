@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "date-and-time": "^0.6.2",
+    "date-and-time": "^0.14.2",
     "dom-regex": "0.0.3",
     "fs-extra": "^5.0.0",
     "html-json": "^1.0.2",
