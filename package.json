@@ -16,7 +16,7 @@
     "html2json": "^1.0.2",
     "match-all": "^1.2.4",
     "pretty": "^2.0.0",
-    "pushbullet": "^2.1.0",
+    "pushbullet": "^3.0.0",
     "regex": "^0.1.1"
   }
 }
